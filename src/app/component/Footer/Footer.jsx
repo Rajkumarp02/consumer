@@ -1,3 +1,4 @@
+"use client"
 import { FaFacebookF } from "react-icons/fa";
 import { AiFillInstagram } from "react-icons/ai";
 // import { FaTwitter } from "react-icons/fa";

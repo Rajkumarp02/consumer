@@ -1,3 +1,4 @@
+"use client"
 import React from 'react'
 import SubNav from '../component/SubNav'
 import { Banner } from './Banner'
