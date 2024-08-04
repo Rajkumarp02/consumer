@@ -1,0 +1,68 @@
+.bg-nav{
+    background: radial-gradient(circle,rgba(219, 234, 254, 1)0%, rgba(226, 238, 254, 1)3%, rgba(234, 243, 254)58%, rgba(254, 254, 255, 1)100%,rgb(245, 245, 245)100%);
+    box-shadow: rgb(119, 119, 119) 0px 3px 10px;
+   }
+   
+   .brand{
+       font-weight: bold;
+       font-family: "Josefin Sans";
+       color: rgb(226, 213, 234);
+       text-shadow: rgba(0, 0, 0, 1) 1px 1px 3px;
+   }
+   
+   .contact{
+       font-family: "Josefin Sans";
+       color: black;
+       font-weight: bold;
+   } 
+   
+   .login{
+       border: 2px solid rgba(117, 24, 177, 1);
+       border-radius: 5px;
+       color: rgba(117, 24, 177, 1);
+       font-weight: 500;
+   }
+   
+   .login:hover{
+       background-color: rgba(117, 24, 177, 1);
+       color: white;
+   }
+   .fm{
+       font-family:"Joesfin Sans";
+       text-shadow: black 1px 1px 1px;
+    }
+
+    /* Navbar.css */
+
+nav {
+    
+    padding: 0 1rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+
+
+.nav-link {
+    padding: 0.5rem 1rem;
+    text-decoration: none;
+    color: #202020;
+    font-size: 1rem;
+    transition: color 0.3s ease;
+}
+
+.nav-link:hover {
+    color: #007BFF;
+}
+
+.menu-btn {
+    color: #333;
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+
+@media (max-width: 640px) {
+    .hidden {
+        display: none;
+    }
+}
