@@ -25,7 +25,7 @@ export const ProductReview = () => {
               
              <div className='flex flex-col hover:cursor-pointer justify-center items-center'>
                <div className='rounded-full'>
-                <Image src={instant} className='rounded-full'/>
+                <Image src={instant} className='rounded-full' alt='img'/>
                </div>
                <p className='text-dark font-bold text-xl py-4'>Instant noodles</p>
              </div>
@@ -33,7 +33,7 @@ export const ProductReview = () => {
 
              <div className='flex flex-col hover:cursor-pointer justify-center items-center'>
                <div className='rounded-full'>
-                <Image src={visa} className='rounded-full'/>
+                <Image src={visa} className='rounded-full' alt='img'/>
                </div>
                <p className='text-dark font-bold text-xl py-4'>credit and debit cards</p>
              </div>
@@ -42,7 +42,7 @@ export const ProductReview = () => {
 
              <div className='flex flex-col hover:cursor-pointer justify-center items-center'>
                <div className='rounded-full'>
-                <Image src={sa} className='rounded-full'/>
+                <Image src={sa} className='rounded-full' alt='img'/>
                </div>
                <p className='text-dark font-bold text-xl py-4'>Handwash & Hand sanitisers</p>
              </div>
@@ -51,7 +51,7 @@ export const ProductReview = () => {
             <div className='grid grid-cols-4 mt-10 flex flex-row gap-6'>
              <div className='flex flex-col hover:cursor-pointer justify-center items-center'>
                <div className='rounded-full'>
-                <Image src={smart} className='rounded-full'/>
+                <Image src={smart} className='rounded-full' alt='img'/>
                </div>
                <p className='text-dark font-bold text-xl py-4'>Smart Phones</p>
              </div>
@@ -59,14 +59,14 @@ export const ProductReview = () => {
          
              <div className='flex flex-col hover:cursor-pointer justify-center items-center'>
                <div className='rounded-full'>
-                <Image src={solar} className='rounded-full'/>
+                <Image src={solar} className='rounded-full' alt='img'/>
                </div>
                <p className='text-dark font-bold text-xl py-4'>Solar Rooftop System</p>
              </div>
 
              <div className='flex flex-col hover:cursor-pointer justify-center items-center'>
                <div className='rounded-full'>
-                <Image src={waterm} className='rounded-full'/>
+                <Image src={waterm} className='rounded-full' alt='img'/>
                </div>
                <p className='text-dark font-bold text-xl py-4'>Water Purifier</p>
              </div>
@@ -74,7 +74,7 @@ export const ProductReview = () => {
 
              <div className='flex flex-col hover:cursor-pointer justify-center items-center'>
                <div className='rounded-full'>
-                <Image src={tooth} className='rounded-full'/>
+                <Image src={tooth} className='rounded-full'alt='img'/>
                </div>
                <p className='text-dark font-bold text-xl py-4'>Toothpastes </p>
              </div>
