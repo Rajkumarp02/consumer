@@ -17,7 +17,7 @@ export const ProductReview = () => {
         <div className='grid grid-cols-4 mt-24 flex flex-row gap-6'>
              <div className='flex flex-col hover:cursor-pointer  justify-center items-center'>
                <div className='rounded-full'>
-                <Image src={water} className='rounded-full'/>
+                <Image src={water} className='rounded-full' alt='mnb'/>
                </div>
                <p className='text-dark font-bold text-xl py-4'>Packaged drinking water</p>
              </div>

@@ -28,7 +28,7 @@ export const Box = () => {
 
         <div className='flex flex-col bg-white border-r-8 border-yellow-400 hover:border-yellow-800 border-b-8 border-yellow-800 p-4'>
           <div className='hover:bg-gradient-to-r from-[#581c87] to-[#FFFFFF] hover:rounded hover:p-5 flex-grow'>
-            <h4 className='text-blue-500 font-bold text-xl hover:text-yellow-900'>From Coo's Desk</h4>
+            <h4 className='text-blue-500 font-bold text-xl hover:text-yellow-900'>From Coo Desk</h4>
             <p className='py-6 text-md font-medium text-dark tracking-wide leading-loose'>
               This day aims to protect consumer rights and protect them from market abuse and social injustices that may undermine their rights. In India, National Consumer’s Rights Day is celebrated every year on December 24. The day serves as a reminder that consumers have the right to be protected from unfair business practices and to have access to safe, quality goods and services…
             </p>
